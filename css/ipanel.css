@@ -1,23 +1,29 @@
-body {margin:0; padding:0}
+body {
+	margin:0;
+	padding:0;
+
+}
 
 #ipanel{
     height:50px;
     background-color:#000000;
     background-image:url('../pic/goolol8.png');
     background-repeat: no-repeat; 
-    background-position: 95%;
+    background-position: 95%;   
 }
 
 #loginpass{
     width: 150px;
     height: 20px;
-    margin: 15 -13 0 15px;
+    margin: 15 -10 0 15px;
     outline: none;
     font: normal 11px 'trebuchet MS', arial, helvetica;
     border-width: 1px;
     border-color:#d4d4d4;
     border-style: solid;
     color:#707070;
+    -moz-border-radius: 4px 4px;
+    -webkit-border-radius: 4px 4px;
 }
 
 #go{
@@ -31,13 +37,17 @@ body {margin:0; padding:0}
     background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #c3c3c3),color-stop(1, #dce0db));
     -moz-box-shadow: 0 0 1px rgba(0, 0, 0, 0.0), 0 1px 0 rgba(255, 255, 255, 0.0) inset;
     -webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.3) inset;
-    box-shadow: 0 0 1px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.3) inset; 
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+    -moz-border-radius: 4px 4px;
+    -webkit-border-radius: 4px 4px; 
 }
 
 #go:hover{
     background: #dce0db;
     background-image: -moz-linear-gradient(#dce0db, #dce0db);
     background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #dce0db),color-stop(1, #c3c3c3));
+    -moz-border-radius: 4px 4px;
+    -webkit-border-radius: 4px 4px;
 }
 
 #go:active{
@@ -46,4 +56,6 @@ body {margin:0; padding:0}
     -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5) inset;
     -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5) inset;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5) inset;
+    -moz-border-radius: 4px 4px;
+    -webkit-border-radius: 4px 4px;
 }

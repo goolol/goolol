@@ -1,0 +1,81 @@
+#loginreg{
+	position: absolute;
+	width: 400px;
+        height: 40px;
+        margin-left: 63%;
+        margin-top: 100px;
+	outline: none;
+	-moz-border-radius: 5px 5px;
+	-webkit-border-radius: 5px 5px;
+}
+#namereg{
+	position: absolute;
+	width: 400px;
+        height: 40px;
+        margin-left: 63%;
+        margin-top: 160px;
+	outline: none;
+	-moz-border-radius: 5px 5px;
+	-webkit-border-radius: 5px 5px;
+}
+#surnamereg{
+	position: absolute;
+	width: 400px;
+        height: 40px;
+        margin-left: 63%;
+        margin-top: 220px;
+	outline: none;
+	-moz-border-radius: 5px 5px;
+	-webkit-border-radius: 5px 5px;
+}
+#agereg{
+	position: absolute;
+	width: 400px;
+        height: 40px;
+        margin-left: 63%;
+        margin-top: 280px;
+	outline: none;
+	-moz-border-radius: 5px 5px;
+	-webkit-border-radius: 5px 5px;
+}
+#passreg{
+	position: absolute;
+	width: 400px;
+        height: 40px;
+        margin-left: 63%;
+        margin-top: 340px;
+	outline: none;
+	-moz-border-radius: 5px 5px;
+	-webkit-border-radius: 5px 5px;
+}
+#repassreg{
+	position: absolute;
+	width: 400px;
+        height: 40px;
+        margin-left: 63%;
+        margin-top: 400px;
+	outline: none;
+	-moz-border-radius: 5px 5px;
+	-webkit-border-radius: 5px 5px;
+}
+#addaccreg{
+	position: absolute;
+	width: 130px;
+        height: 30px;
+        margin-left: 70%;
+        margin-top: 450px;
+	-moz-border-radius: 4px 4px;
+	-webkit-border-radius: 4px 4px;
+	background-image: -moz-linear-gradient(#dce0db, #c3c3c3);
+	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #c3c3c3),color-stop(1, #dce0db));
+	-moz-box-shadow: 0 0 1px rgba(0, 0, 0, 0.0), 0 1px 0 rgba(255, 255, 255, 0.0) inset;
+	-webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+}
+#addaccreg:hover{
+	background: #dce0db;
+	background-image: -moz-linear-gradient(#dce0db, #dce0db);
+	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #dce0db),color-stop(1, #c3c3c3));
+	-moz-border-radius: 4px 4px;
+	-webkit-border-radius: 4px 4px;
+}
