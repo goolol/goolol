@@ -1,0 +1,33 @@
+body {margin:0; padding:0}
+
+#ipanel{
+	height:50px;
+	background-color:#000000;
+	background-image:url('../pic/goolol8.png');
+	background-repeat: no-repeat; 
+	background-position: 95%;
+}
+
+
+#loginpass{
+	width: 150px;
+	height: 20px;
+	margin: 15 -13 0 15px;
+   	outline: none;
+	font: normal 11px 'trebuchet MS', arial, helvetica;
+	border-width: 1px;
+	border-color:#d4d4d4;
+	border-style: solid;
+	color:#707070;
+}
+
+#go{
+	position: absolute;
+	width: 37px;
+	height: 20px;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+
+
+
