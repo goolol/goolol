@@ -1,33 +1,49 @@
 body {margin:0; padding:0}
 
 #ipanel{
-	height:50px;
-	background-color:#000000;
-	background-image:url('../pic/goolol8.png');
-	background-repeat: no-repeat; 
-	background-position: 95%;
+    height:50px;
+    background-color:#000000;
+    background-image:url('../pic/goolol8.png');
+    background-repeat: no-repeat; 
+    background-position: 95%;
 }
 
-
 #loginpass{
-	width: 150px;
-	height: 20px;
-	margin: 15 -13 0 15px;
-   	outline: none;
-	font: normal 11px 'trebuchet MS', arial, helvetica;
-	border-width: 1px;
-	border-color:#d4d4d4;
-	border-style: solid;
-	color:#707070;
+    width: 150px;
+    height: 20px;
+    margin: 15 -13 0 15px;
+    outline: none;
+    font: normal 11px 'trebuchet MS', arial, helvetica;
+    border-width: 1px;
+    border-color:#d4d4d4;
+    border-style: solid;
+    color:#707070;
 }
 
 #go{
-	position: absolute;
-	width: 37px;
-	height: 20px;
-	margin-left: 15px;
-	margin-top: 15px;
+    background: #c3c3c3;
+    position: absolute;
+    width: 37px;
+    height: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+    background-image: -moz-linear-gradient(#dce0db, #c3c3c3);
+    background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #c3c3c3),color-stop(1, #dce0db));
+    -moz-box-shadow: 0 0 1px rgba(0, 0, 0, 0.0), 0 1px 0 rgba(255, 255, 255, 0.0) inset;
+    -webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.3) inset; 
 }
 
+#go:hover{
+    background: #dce0db;
+    background-image: -moz-linear-gradient(#dce0db, #dce0db);
+    background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #dce0db),color-stop(1, #c3c3c3));
+}
 
-
+#go:active{
+    background: #dce0db;
+    outline: none;
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5) inset;
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5) inset;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5) inset;
+}
