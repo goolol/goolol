@@ -1,0 +1,21 @@
+#loginpass:focus {
+	border-color:#63c2ff;
+}
+#loginreg:focus {
+	border-color:#63c2ff;
+}
+#namereg:focus {
+	border-color:#63c2ff;
+}
+#surnamereg:focus {
+	border-color:#63c2ff;
+}
+#agereg:focus {
+	border-color:#63c2ff;
+}
+#passreg:focus {
+	border-color:#63c2ff;
+}
+#repassreg:focus {
+	border-color:#63c2ff;
+}

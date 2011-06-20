@@ -19,7 +19,7 @@ body {
     outline: none;
     font: normal 11px 'trebuchet MS', arial, helvetica;
     border-width: 1px;
-    border-color:#d4d4d4;
+    border-color:#c3c3c3;
     border-style: solid;
     color:#707070;
     -moz-border-radius: 4px 4px;
@@ -59,3 +59,4 @@ body {
     -moz-border-radius: 4px 4px;
     -webkit-border-radius: 4px 4px;
 }
+

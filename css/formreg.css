@@ -4,7 +4,10 @@
         height: 40px;
         margin-left: 63%;
         margin-top: 100px;
+	border-color:#c3c3c3;
+        border-style: solid;
 	outline: none;
+	font: 15px 'trebuchet MS', arial, helvetica;
 	-moz-border-radius: 5px 5px;
 	-webkit-border-radius: 5px 5px;
 }
@@ -14,7 +17,10 @@
         height: 40px;
         margin-left: 63%;
         margin-top: 160px;
+	border-color:#c3c3c3;
+        border-style: solid;
 	outline: none;
+	font: 15px 'trebuchet MS', arial, helvetica;
 	-moz-border-radius: 5px 5px;
 	-webkit-border-radius: 5px 5px;
 }
@@ -24,7 +30,10 @@
         height: 40px;
         margin-left: 63%;
         margin-top: 220px;
+	border-color:#c3c3c3;
+        border-style: solid;
 	outline: none;
+	font: 15px 'trebuchet MS', arial, helvetica;
 	-moz-border-radius: 5px 5px;
 	-webkit-border-radius: 5px 5px;
 }
@@ -34,17 +43,24 @@
         height: 40px;
         margin-left: 63%;
         margin-top: 280px;
+	border-color:#c3c3c3;
+        border-style: solid;
 	outline: none;
+	font: 15px 'trebuchet MS', arial, helvetica;
 	-moz-border-radius: 5px 5px;
 	-webkit-border-radius: 5px 5px;
 }
 #passreg{
+	position: fixed;
 	position: absolute;
 	width: 400px;
         height: 40px;
         margin-left: 63%;
         margin-top: 340px;
+	border-color:#c3c3c3;
+        border-style: solid;
 	outline: none;
+	font: 15px 'trebuchet MS', arial, helvetica;
 	-moz-border-radius: 5px 5px;
 	-webkit-border-radius: 5px 5px;
 }
@@ -54,7 +70,10 @@
         height: 40px;
         margin-left: 63%;
         margin-top: 400px;
+	border-color:#c3c3c3;
+        border-style: solid;
 	outline: none;
+	font: 15px 'trebuchet MS', arial, helvetica;
 	-moz-border-radius: 5px 5px;
 	-webkit-border-radius: 5px 5px;
 }
@@ -64,6 +83,7 @@
         height: 30px;
         margin-left: 70%;
         margin-top: 450px;
+	font: 15px 'trebuchet MS', arial, helvetica;
 	-moz-border-radius: 4px 4px;
 	-webkit-border-radius: 4px 4px;
 	background-image: -moz-linear-gradient(#dce0db, #c3c3c3);
@@ -73,6 +93,7 @@
 	box-shadow: 0 0 1px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.3) inset;
 }
 #addaccreg:hover{
+	font: 15px 'trebuchet MS', arial, helvetica;
 	background: #dce0db;
 	background-image: -moz-linear-gradient(#dce0db, #dce0db);
 	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #dce0db),color-stop(1, #c3c3c3));
