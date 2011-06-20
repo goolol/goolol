@@ -7,9 +7,10 @@ body {
 #ipanel{
     height:50px;
     background-color:#000000;
-    background-image:url('../pic/goolol8.png');
+    background-image:url('../pic/g3.png');
     background-repeat: no-repeat; 
     background-position: 95%;   
+    
 }
 
 #loginpass{
