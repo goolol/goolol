@@ -1,6 +1,57 @@
 #podval{
 	position: absolute;
 	margin-top: 600px;
-	margin-left: 45%; 
+	margin-left: 43%;
+	/*border: solid 1px;*/ 
 }
+#about{
+	color: #63c2ff;
+	font: 13px 'trebuchet MS', arial, helvetica;
+	text-decoration: none;
+}
+#about:hover{text-decoration: underline;}
+#about:visited{color: #63c2ff;}
+#rule{
+	color: #63c2ff;
+	font: 13px 'trebuchet MS', arial, helvetica;
+	text-decoration: none;
+}
+#rule:hover{text-decoration: underline;}
+#rule:visited{color: #63c2ff;}
+#news{
+	color: #63c2ff;
+	font: 13px 'trebuchet MS', arial, helvetica;
+	text-decoration: none;
+}
+#news:hover{text-decoration: underline;}
+#news:visited{color: #63c2ff;}
+#predlogi{
+	color: #63c2ff;
+	font: 13px 'trebuchet MS', arial, helvetica;
+	text-decoration: none;
+}
+#predlogi:hover{text-decoration: underline;}
+#predlogi:visited{color: #63c2ff;}
+#lang{
+	color: #63c2ff;
+	font: 13px 'trebuchet MS', arial, helvetica;
+	text-decoration: none;
+}
+#lang:hover{text-decoration: underline;}
+#lang:visited{color: #63c2ff;}
+#copy{
+	margin-left: 23%;
+	color: #000000;
+	font: 15px 'trebuchet MS', arial, helvetica;
+}
+
+
+
+
+
+
+
+
+
+
 
