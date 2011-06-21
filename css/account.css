@@ -1,22 +1,9 @@
-body {
-	margin:0;
-	padding:0;
-
-}
-
-#ipanel{
-    height:50px;
-    background-color:#000000;
-    background-image:url('../pic/g3.png');
-    background-repeat: no-repeat; 
-    background-position: 95%;   
-    
-}
-
-#loginpass{
-    width: 150px;
+#poisk{
+    position: absolute;
+    width: 223px;
     height: 20px;
-    margin: 15 -10 0 15px;
+    margin-top: 15px;
+    margin-left: 44%;
     outline: none;
     font: normal 11px 'trebuchet MS', arial, helvetica;
     border-width: 1px;
@@ -26,13 +13,12 @@ body {
     -moz-border-radius: 4px 4px;
     -webkit-border-radius: 4px 4px;
 }
-
-#go{
+#gopoisk{
     background: #c3c3c3;
     position: absolute;
     width: 37px;
     height: 20px;
-    margin-left: 15px;
+    margin-left: 56%;
     margin-top: 15px;
     font: normal 14px 'trebuchet MS', arial, helvetica;
     background-image: -moz-linear-gradient(#dce0db, #c3c3c3);
@@ -44,7 +30,7 @@ body {
     -webkit-border-radius: 4px 4px; 
 }
 
-#go:hover{
+#gopoisk:hover{
     font: normal 14px 'trebuchet MS', arial, helvetica;
     background: #dce0db;
     background-image: -moz-linear-gradient(#dce0db, #dce0db);
@@ -53,7 +39,7 @@ body {
     -webkit-border-radius: 4px 4px;
 }
 
-#go:active{
+#gopoisk:active{
     font: normal 14px 'trebuchet MS', arial, helvetica;
     background: #dce0db;
     outline: none;
@@ -63,4 +49,3 @@ body {
     -moz-border-radius: 4px 4px;
     -webkit-border-radius: 4px 4px;
 }
-
