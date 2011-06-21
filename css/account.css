@@ -1,9 +1,9 @@
 #poisk{
     position: absolute;
-    width: 223px;
+    width: 220px;
     height: 20px;
     margin-top: 15px;
-    margin-left: 44%;
+    margin-left: 368px;
     outline: none;
     font: normal 11px 'trebuchet MS', arial, helvetica;
     border-width: 1px;
@@ -18,7 +18,7 @@
     position: absolute;
     width: 37px;
     height: 20px;
-    margin-left: 56%;
+    margin-left: 594px;
     margin-top: 15px;
     font: normal 14px 'trebuchet MS', arial, helvetica;
     background-image: -moz-linear-gradient(#dce0db, #c3c3c3);
@@ -49,3 +49,31 @@
     -moz-border-radius: 4px 4px;
     -webkit-border-radius: 4px 4px;
 }
+
+#tabl{
+	width: 1000px;
+}
+
+#sobitie{
+	float: left;
+	width: 700px;
+	height: auto;
+	/*border: solid 1px;*/
+}
+
+#podpiska{
+	float: left;
+	width: 300px;
+	/*border: solid 1px;*/
+}
+
+
+
+
+
+
+
+
+
+
+
