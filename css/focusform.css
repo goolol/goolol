@@ -1,6 +1,9 @@
 #loginpass:focus {
 	border-color:#63c2ff;
 }
+#loginpass2:focus {
+	border-color:#63c2ff;
+}
 #loginreg:focus {
 	border-color:#63c2ff;
 }

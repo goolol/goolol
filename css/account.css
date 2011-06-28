@@ -50,14 +50,12 @@
     -webkit-border-radius: 4px 4px;
 }
 
-#tabl{
-	width: 1000px;
-}
 
 #sobitie{
 	float: left;
 	width: 700px;
 	height: auto;
+        overflow: hidden;
 	/*border: solid 1px;*/
 }
 

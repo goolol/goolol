@@ -1,9 +1,8 @@
 #loginreg{
-	position: absolute;
-	width: 400px;
-        height: 40px;
-        margin-left: 63%;
-        margin-top: 100px;
+	width: 290px;
+        height: 30px;
+        margin-left: 648px;
+        margin-top: 30px;
 	border-color:#c3c3c3;
         border-style: solid;
 	outline: none;
@@ -12,11 +11,10 @@
 	-webkit-border-radius: 5px 5px;
 }
 #namereg{
-	position: absolute;
-	width: 400px;
-        height: 40px;
-        margin-left: 63%;
-        margin-top: 160px;
+	width: 290px;
+        height: 30px;
+        margin-left: 648px;
+        margin-top: 20px;
 	border-color:#c3c3c3;
         border-style: solid;
 	outline: none;
@@ -25,11 +23,10 @@
 	-webkit-border-radius: 5px 5px;
 }
 #surnamereg{
-	position: absolute;
-	width: 400px;
-        height: 40px;
-        margin-left: 63%;
-        margin-top: 220px;
+	width: 290px;
+        height: 30px;
+        margin-left: 648px;
+        margin-top: 20px;
 	border-color:#c3c3c3;
         border-style: solid;
 	outline: none;
@@ -38,11 +35,10 @@
 	-webkit-border-radius: 5px 5px;
 }
 #agereg{
-	position: absolute;
-	width: 400px;
-        height: 40px;
-        margin-left: 63%;
-        margin-top: 280px;
+	width: 290px;
+        height: 30px;
+        margin-left: 648px;
+        margin-top: 20px;
 	border-color:#c3c3c3;
         border-style: solid;
 	outline: none;
@@ -51,12 +47,10 @@
 	-webkit-border-radius: 5px 5px;
 }
 #passreg{
-	position: fixed;
-	position: absolute;
-	width: 400px;
-        height: 40px;
-        margin-left: 63%;
-        margin-top: 340px;
+	width: 290px;
+        height: 30px;
+        margin-left: 648px;
+        margin-top: 20px;
 	border-color:#c3c3c3;
         border-style: solid;
 	outline: none;
@@ -65,11 +59,10 @@
 	-webkit-border-radius: 5px 5px;
 }
 #repassreg{
-	position: absolute;
-	width: 400px;
-        height: 40px;
-        margin-left: 63%;
-        margin-top: 400px;
+	width: 290px;
+        height: 30px;
+        margin-left: 648px;
+        margin-top: 20px;
 	border-color:#c3c3c3;
         border-style: solid;
 	outline: none;
@@ -78,11 +71,10 @@
 	-webkit-border-radius: 5px 5px;
 }
 #addaccreg{
-	position: absolute;
 	width: 130px;
         height: 30px;
-        margin-left: 70%;
-        margin-top: 450px;
+        margin-left: 728px;
+        margin-top: 20px;
 	font: 15px 'trebuchet MS', arial, helvetica;
 	-moz-border-radius: 4px 4px;
 	-webkit-border-radius: 4px 4px;
