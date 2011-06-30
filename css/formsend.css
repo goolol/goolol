@@ -1,0 +1,60 @@
+#formsend{
+	margin-left: 25px;
+	margin-top: 10px;
+	width: 610px;
+	height: auto;
+	border: solid 0px;
+	background: #000000;
+	-moz-border-radius: 4px 4px;
+	-webkit-border-radius: 4px 4px;	
+
+}
+
+#polesend{
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 520px;
+	outline: none; 
+	font: 12px 'trebuchet MS', arial, helvetica;
+	height: auto;
+	-moz-border-radius: 4px 4px;
+	-webkit-border-radius: 4px 4px;
+	
+}
+
+#ava{	
+
+	margin-left: 540px;
+	margin-top: 10px;
+	width: 60px;
+	height: 80px;
+	background: url('../pic/avalol.jpg');
+}
+
+#send{	
+	height: 23px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	margin-top: 5px;
+	font: 13px 'trebuchet MS', arial, helvetica;
+	-moz-border-radius: 4px 4px;
+	-webkit-border-radius: 4px 4px;
+	background-image: -moz-linear-gradient(#dce0db, #c3c3c3);
+	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #c3c3c3),color-stop(1, #dce0db));
+	-moz-box-shadow: 0 0 1px rgba(0, 0, 0, 0.0), 0 1px 0 rgba(255, 255, 255, 0.0) inset;
+	-webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+}
+
+#send:hover{
+	height: 23px; 
+	font: 13px 'trebuchet MS', arial, helvetica;
+	background: #dce0db;
+	background-image: -moz-linear-gradient(#dce0db, #dce0db);
+	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #dce0db),color-stop(1, #c3c3c3));
+	-moz-border-radius: 4px 4px;
+	-webkit-border-radius: 4px 4px;
+}
+
+
