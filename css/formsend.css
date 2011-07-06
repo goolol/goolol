@@ -1,7 +1,7 @@
 #formsend{
-	margin-left: 25px;
 	margin-top: 10px;
-	width: 610px;
+	margin-left: 10px;
+	width: 680px;
 	height: auto;
 	border: solid 0px;
 	background: #000000;
@@ -11,26 +11,17 @@
 }
 
 #polesend{
-	float: left;
 	margin-left: 10px;
 	margin-top: 10px;
-	width: 520px;
+	width: 660px;
 	outline: none; 
-	font: 12px 'trebuchet MS', arial, helvetica;
-	height: auto;
+	font: 16px 'trebuchet MS', arial, helvetica; 
 	-moz-border-radius: 4px 4px;
 	-webkit-border-radius: 4px 4px;
 	
 }
 
-#ava{	
 
-	margin-left: 540px;
-	margin-top: 10px;
-	width: 60px;
-	height: 80px;
-	/*background: url('../pic/avalol.jpg');*/
-}
 
 #send{	
 	height: 23px;
@@ -57,4 +48,11 @@
 	-webkit-border-radius: 4px 4px;
 }
 
+#links{
+	color: #63c2ff;
+	font: 13px 'trebuchet MS', arial, helvetica;
+	text-decoration: none;
+}
+#links:hover{text-decoration: underline;}
+#links:visited{color: #63c2ff;}
 

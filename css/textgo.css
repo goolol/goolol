@@ -1,0 +1,15 @@
+#textgo{
+	width: 680px;
+	height: auto;
+	border: solid 1px;	
+}
+#delete{
+	margin-left: 625px;	
+}
+#delete{
+	color: #63c2ff;
+	font: 13px 'trebuchet MS', arial, helvetica;
+	text-decoration: none;
+}
+#delete:hover{text-decoration: underline;}
+#delete:visited{color: #63c2ff;}
