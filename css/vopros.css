@@ -1,5 +1,12 @@
 #vopros{
-	color: #63c2ff;
-	margin-left: 650px;
-	font: 20px 'trebuchet MS', arial, helvetica;
+    color: #63c2ff;
+    /*margin-left: 650px;*/
+    font: 20px 'trebuchet MS', arial, helvetica;
+}
+
+#you{
+    /*border: 1px solid #000;*/
+    width: 300px;
+    float: left;
+    margin: 0px 0px 0px 500px;
 }

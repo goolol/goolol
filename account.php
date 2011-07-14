@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  </head>
+  <link href="css/ipanel.css" rel="stylesheet" type="text/css"/>
+  <link href="css/focusform.css" rel="stylesheet" type="text/css"/>
+  <link href="css/podval.css" rel="stylesheet" type="text/css"/>     
+  <link href="css/account.css" rel="stylesheet" type="text/css"/>
+  <link href="css/formsend.css" rel="stylesheet" type="text/css"/>
+  <title>мой аккаунт</title>
+  <body>
+    <table id="tabl" align="center" cellspacing="0" border="0" cellpadding="0">
+      <tr>
+	<td>
+	  <div id="ipanel">
+	    <form>
+	      <input id="poisk" type="search" name="poisk" placeholder="найти...">
+	      <input id="gopoisk" type="submit" name="go" value="Go!">
+	    </form>
+	    <div id="pic"></div>
+	  </div>
+	</td>
+      </tr>
+      <tr>
+	<td><div id="sobitie"><div id="formsend">
+      <textarea id="polesend" rows="2" wrap="hard" spellcheck="yes" placeholder="событие..."></textarea>
+      <input id="send" type="submit" name="send" value="Go!"> <a id="links" href="#">ссылка</a>
+    </div></div><div id="podpiska">2 text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text<br>2<br>2<br>2<br>2<br>2<br>2<br>2<br>2<br>2<br></div></td>
+      </tr>
+      <tr>
+	<td><div id="podval"><pre><span id="copy">gulol &copy; 2011</span>  <a id="about" href="#">о сайте</a>  <a  id="rule" href="#">правила</a>  <a id="news" href="#">новости</a>  <a id="predlogi" href="#">предложения</a></pre></div>
+	</td>
+      </tr>
+    </table>
+								 <p>Дата: <?php echo date('l dS F Y h:i:s A'); ?></p>
+  </body>
+</html>

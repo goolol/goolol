@@ -1,0 +1,6 @@
+<?php
+$login = $_REQUEST["loginEnter"];
+$password = $_REQUEST["passEnter"];
+if (!isset($login))
+  exit("Вы не ввели логин.");
+?>

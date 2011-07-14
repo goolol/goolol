@@ -1,8 +1,8 @@
 #podval{
 	height: 40px;
 	width: 378px;
-	margin-left: 306px;
-	/*border: solid 1px; */
+	margin: 0px auto 0px auto;
+	/*border: solid 1px;*/
 }
 #about{
 	color: #63c2ff;
@@ -40,8 +40,8 @@
 #lang:hover{text-decoration: underline;}
 #lang:visited{color: #63c2ff;}
 #copy{
-	color: #000000;
-	font: 15px 'trebuchet MS', arial, helvetica;
+    color: #000000;
+    font: 15px 'trebuchet MS', arial, helvetica;
 }
 
 

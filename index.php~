@@ -14,7 +14,7 @@
       <tr>
 	<td style = "background-color: #585857; height:70px;">
 	  <div id="ipanel">
-	    <form action = "login.php" method = "post">
+	    <form>
 	      <input id="loginEnter" type="text" name="loginEnter" placeholder="логин...">
 	      <input id="passEnter" type="password" name="passEnter" placeholder="пароль...">
 	      <input id="go" type="submit" name="go" value="Go!">
@@ -32,7 +32,7 @@
 	    <img src="pic/you.jpg" id = "imgYou" style = "margin-top: 20px;"/>
 	  </div>
 	  <div id = "formRegistration">
-	    <span id="vopros">Регистрация</span>
+	    <span id="vopros">Вступить в партию</span>
 	    <form action = "registration.php" method = "post">
 	      <input id="loginreg" type="text" name="login" placeholder="Логин">
 	      <input id="namereg" type="text" name="name" placeholder="Имя">
